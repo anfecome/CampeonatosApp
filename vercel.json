@@ -8,6 +8,11 @@
         "src": "/(.*)",
         "dest": "/api/index.php"
     }],
+    "rewrites": [
+    {
+      "source": "/(.*)", 
+      "destination": "/resources/views/public/campeonatos/index.blade.php"
+    }], 
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
