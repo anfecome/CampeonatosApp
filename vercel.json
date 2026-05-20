@@ -11,7 +11,7 @@
     "rewrites": [
     {
       "source": "/(.*)", 
-      "destination": "/public/build/assets/"
+      "destination": "/resources/views/public/campeonatos/index.blade.php"
     }], 
     "env": {
         "APP_ENV": "production",
