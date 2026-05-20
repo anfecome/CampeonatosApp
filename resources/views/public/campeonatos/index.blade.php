@@ -6,8 +6,8 @@
     <title>Campeonatos de Fútbol — Universidad Central</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/build/assets/app-B4BTAPLo.css" />
-    <link rel="stylesheet" href="/build/assets/app-CBbTb_k3.js" />
+    <link rel="stylesheet" href="public/build/assets/app-B4BTAPLo.css">
+    <link rel="stylesheet" href="public/build/assets/app-CBbTb_k3.js">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <style>
         :root {
