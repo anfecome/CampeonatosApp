@@ -17,6 +17,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://app-campeonatosult.vercel.app",
+	"APP_KEY": base64:LdtXzcfzSfWGIElYY/EKRo2kkHEF+CNpsQdI278Iigg=
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
